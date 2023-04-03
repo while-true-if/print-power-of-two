@@ -1,3 +1,2 @@
 # print-power-of-two
- このプログラムは永遠に2の累乗を計算するプログラムです。
- 0.2秒ずつ開けて、2の累乗が計算され、表示されます。
+This program is a program that calculates powers of 2 forever. Powers of 2 are calculated and displayed at intervals of 0.2 seconds.
